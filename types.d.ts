@@ -1,6 +1,6 @@
 /* This is a type declaration file.
 
-Type declarations in a d.ts file are by default accesible globally in a TS project.
+Type declarations in a d.ts file are by default accessible globally in a TS project.
 
 These cease to be type declaration files if the import/export keywords are used. That means types here would not be automatically accessible to the TS service
 
